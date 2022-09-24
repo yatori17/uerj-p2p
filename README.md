@@ -1,6 +1,6 @@
 # Simulação Fórum Publico
 
-O objetivo dessa simulação é criar um fórum onde as pessoas poderiam falar de músicas e de seus assuntos de interesse, no primeira parte da simulação, alguns conceitos foram postos em prática, como as regras do freechains e como ele botava em prática seus conceitos, e por isso alguns testes foram feitos, como o de double-spend, sincronização de nós, usuários trolls tentando entrar no fórum, distribuição de likes, dislikes e outros comandos. Foram usados 10 nós e 15 usuários para a simulação
+O objetivo dessa simulação é criar um fórum onde as pessoas poderiam falar de músicas e de seus assuntos de interesse, no primeira parte da simulação, alguns conceitos foram postos em prática, como as regras do freechains e como ele botava em prática seus conceitos, e por isso alguns testes foram feitos, como o de double-spend, sincronização de nós, usuários trolls tentando entrar no fórum, distribuição de likes, dislikes e outros comandos. Foram usados 10 nós e 15 usuários para a simulação.
 
 A primeira parte da simulação consistiu em dez dias de postagens, com alguns usuários a fim de conseguir reputação para continuar as postagens, testes foram feitos como:
 O pioneiro postando e verificando a reputação (que permanece a mesma)
