@@ -31,33 +31,33 @@ Maria José REPS
 30
 anthonio reps:
 14
-anamariabraga reps'
+anamariabraga reps:
 30
- reps eduardo
+ reps eduardo:
 26
- reps jose 
+ reps jose:
 15
- reps francisco 
+ reps francisco:
 13
- reps luiz 
+ reps luiz:
 30
- reps guilherme 
+ reps guilherme: 
 26
- reps pamela 
+ reps pamela:
 27
- reps tuane 
+ reps tuane:
 14
- reps fa-da-maria-jose
+ reps fa-da-maria-jose:
 -1
-Reps sabrina
+Reps sabrina:
 30
-Reps samara
+Reps samara:
 2
-Reps persans
+Reps persans:
 7
-Reps Leticia123
+Reps Leticia123:
 30
-Reps Pedro
+Reps Pedro:
 30
-REPS pioneer
+REPS pioneer:
 11
