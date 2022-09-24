@@ -14,13 +14,14 @@ Após esse período de 10 dias algumas coisas começam a entrar na normalidade, 
     
 Sabrina e Pedro são amigos e gostam dos seus conteúdos, então eles sempre curtem as postagens um do outro;
 Maria José algumas vezes da dislike no usuário “fa-da-maria-jose”, por não gostar do conteúdo dele;
-Persans distribui um pouco de likes entre os usuários, com o objetivo de incentivar as postagens;
+Persans distribui um pouco de likes entre os usuários, com o objetivo de incentivar as postagens e também posta para continuar com reputação.
 Pamela diversas vezes curte o conteúdo da Tuane e do Guilherme
 Guilherme curte o conteúdo da Maria José, e algumas vezes dá dislike no fa-da-maria-jose;
 Antonio e Tuane normalmente curtem as mensagens da Maria José
 Francisco tem interesse nas mensagens de guilherme.
 Eduardo e Ana Maria não costumam curtir muitas publicações.
 José Adora o conteúdo de Luiz.
+Letícia não costuma curtir postagens, mas sim criar as suas próprias.
 Algumas mensagens da Maria José Cururu são mensagens virais, já que ela é uma grande personalidade no fórum
 As mensagens do seu “fã” diversas vezes costuma ser ofensiva, então os usuários do fórum decidem dar dislike nessas mensagens.
 
