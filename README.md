@@ -62,3 +62,5 @@ Reps Pedro:
 30
 REPS pioneer:
 11
+
+OBS.: Para testar a simulação, basta rodar o arquivo ex.sh
