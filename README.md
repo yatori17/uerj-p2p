@@ -18,5 +18,8 @@ Persans distribui um pouco de likes entre os usuários, com o objetivo de incent
 Pamela diversas vezes curte o conteúdo da Tuane e do Guilherme
 Guilherme curte o conteúdo da Maria José, e algumas vezes dá dislike no fa-da-maria-jose;
 Antonio e Tuane normalmente curtem as mensagens da Maria José
+Francisco tem interesse nas mensagens de guilherme.
+Eduardo e Ana Maria não costumam curtir muitas publicações.
+José Adora o conteúdo de Luiz.
 Algumas mensagens da Maria José Cururu são mensagens virais, já que ela é uma grande personalidade no fórum
 As mensagens do seu “fã” diversas vezes costuma ser ofensiva, então os usuários do fórum decidem dar dislike nessas mensagens.
