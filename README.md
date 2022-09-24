@@ -23,3 +23,41 @@ Eduardo e Ana Maria não costumam curtir muitas publicações.
 José Adora o conteúdo de Luiz.
 Algumas mensagens da Maria José Cururu são mensagens virais, já que ela é uma grande personalidade no fórum
 As mensagens do seu “fã” diversas vezes costuma ser ofensiva, então os usuários do fórum decidem dar dislike nessas mensagens.
+
+
+Após rodar três meses, temos o seguinte resultado:
+FORUM FINISHED RUNNING AFTER THREE MONTHS --> Reputations
+Maria José REPS
+30
+anthonio reps:
+14
+anamariabraga reps'
+30
+ reps eduardo
+26
+ reps jose 
+15
+ reps francisco 
+13
+ reps luiz 
+30
+ reps guilherme 
+26
+ reps pamela 
+27
+ reps tuane 
+14
+ reps fa-da-maria-jose
+-1
+Reps sabrina
+30
+Reps samara
+2
+Reps persans
+7
+Reps Leticia123
+30
+Reps Pedro
+30
+REPS pioneer
+11
