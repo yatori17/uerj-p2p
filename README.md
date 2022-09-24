@@ -19,4 +19,4 @@ Pamela diversas vezes curte o conteúdo da Tuane e do Guilherme
 Guilherme curte o conteúdo da Maria José, e algumas vezes dá dislike no fa-da-maria-jose;
 Antonio e Tuane normalmente curtem as mensagens da Maria José
 Algumas mensagens da Maria José Cururu são mensagens virais, já que ela é uma grande personalidade no fórum
-As mensagens do seu “fã” diversas vezes costuma ser ofensiva, então os usuários do fórum decidem apagar, com dislikes e assim perdendo o conteúdo da mensagem.
+As mensagens do seu “fã” diversas vezes costuma ser ofensiva, então os usuários do fórum decidem dar dislike nessas mensagens.
