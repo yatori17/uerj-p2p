@@ -25,7 +25,6 @@ Letícia não costuma curtir postagens, mas sim criar as suas próprias.
 Algumas mensagens da Maria José Cururu são mensagens virais, já que ela é uma grande personalidade no fórum
 As mensagens do seu “fã” diversas vezes costuma ser ofensiva, então os usuários do fórum decidem dar dislike nessas mensagens.
 
-
 Após rodar três meses, temos o seguinte resultado:
 FORUM FINISHED RUNNING AFTER THREE MONTHS --> Reputations
 Maria José REPS
@@ -62,5 +61,20 @@ Reps Pedro:
 30
 REPS pioneer:
 11
+
+#Conclusão da Simulação
+
+<p>Augustinho carrara permaneceu com 3 reps, mesmo após tentando fazer um double spend e ganhar duas reps a mais. OBS.: Ele ficou inativo após perceber que teria essa dificuldade com o double spend</p>
+<p>Pedro e Sabrina com as reps máximas, já que eles eram usuários ativos no fórum e ambos trocavam likes</p>
+<p>Letícia e Luiz com a rep máxima, já que eles eram usuários ativos, mesmo sem curtir publicações de outros usuários</p>
+<p> Maria José deve estar com rep máxima, por ser uma usuária ativa e ter bastante curtidas em suas postagens </p>
+<p> Antonio, Franciso, José e Tuane são usuários que distribuem likes ativamente, a reputação deles deve estar entre 13-16, que é o número de iterações onde eles ativamente gastaram alguma reputação, e ao mesmo tempo criaram conteúdos novos. </p>
+<p>Fã da maria josé deve estar com reputação negativa pelos dislikes que aconteceram com suas publicações, já que eram ofensivas a Maria José</p>
+<p> Persans começou com 8 de reputação no inicio da iteração, porém a cada iteração ele criava um novo conteúdo, ganhava reputação e distribuia parte de sua reputação entre os usuários </p>
+<p> Apesar de Pamela sempre curtir o conteúdo do Guilherme ou da Tuane, o moderador sempre dava likes em sua publicação para que ela continuasse sendo ativa no fórum</p>
+<p> Samara ficou inativa no fórum, então ela não poderia ter aumentado sua reputação </p>
+<p> Após os 10 dias de criação do fórum, o pioneiro ficou inativo no fórum e deixou de fazer qualquer operação, e assim
+<p> Eduardo e Guilherme sempre curtiam alguma publicação, mas ao mesmo tempo criavam conteúdos relevantes para o fórum, e portanto ambos terminaram com uma reputação de 26</p>
+<p> O troll permaneceu sem reputação, já que ele não tinha reputação para postar no fórum </p>
 
 OBS.: Para testar a simulação, basta rodar o arquivo ex.sh
