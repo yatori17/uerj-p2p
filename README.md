@@ -64,7 +64,7 @@ REPS pioneer:
 
 # Conclusão da Simulação
 
-<p>Augustinho carrara permaneceu com 3 reps, mesmo após tentando fazer um double spend e ganhar duas reps a mais. OBS.: Ele ficou inativo após perceber que teria essa dificuldade com o double spend</p>
+<p>Augustinho carrara permaneceu com 3 reps, mesmo após tentando fazer um double spend para tentar ganhar duas reps a mais. OBS.: Ele ficou inativo após perceber que teria essa dificuldade com o double spend. Reps que ele gostaria de obter no final da iteração: 5 reps; Reps ao final da iteração: 3</p>
 <p>Pedro e Sabrina com as reps máximas, já que eles eram usuários ativos no fórum e ambos trocavam likes</p>
 <p>Letícia e Luiz com a rep máxima, já que eles eram usuários ativos, mesmo sem curtir publicações de outros usuários</p>
 <p> Maria José deve estar com rep máxima, por ser uma usuária ativa e ter bastante curtidas em suas postagens </p>
