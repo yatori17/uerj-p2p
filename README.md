@@ -62,7 +62,7 @@ Reps Pedro:
 REPS pioneer:
 11
 
-#Conclusão da Simulação
+# Conclusão da Simulação
 
 <p>Augustinho carrara permaneceu com 3 reps, mesmo após tentando fazer um double spend e ganhar duas reps a mais. OBS.: Ele ficou inativo após perceber que teria essa dificuldade com o double spend</p>
 <p>Pedro e Sabrina com as reps máximas, já que eles eram usuários ativos no fórum e ambos trocavam likes</p>
